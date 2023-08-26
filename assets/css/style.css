@@ -53,6 +53,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.nav-btn:hover{
+    background: #001931;
+    color: #FFFFFF;
+}
+
 .pt-320 {
     padding-top: 320px;
 }
@@ -90,9 +95,11 @@
     text-decoration-line: line-through !important;
 }
 
-btn {
-    font-family: 'Poppins', sans-serif;
+.sec-1-btn:hover{
+    background-color: #001931;
+    color: #FFFFFF;
 }
+
 
 .pb-48 {
     padding-bottom: 48px;
@@ -107,6 +114,7 @@ btn {
     border-radius: 45.5px;
     background: #FFF;
     font-family: 'Poppins', sans-serif;
+    border: none;
 }
 
 .pb-60 {
@@ -450,10 +458,6 @@ btn {
     .right {
         left: 0%;
     }
-
-
-
-
     .mb-sm-40 {
         margin-bottom: 40px;
     }
