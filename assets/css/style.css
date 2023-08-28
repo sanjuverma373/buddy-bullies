@@ -53,7 +53,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.nav-btn:hover{
+.nav-btn:hover {
     background: #001931;
     color: #FFFFFF;
 }
@@ -95,7 +95,7 @@
     text-decoration-line: line-through !important;
 }
 
-.sec-1-btn:hover{
+.sec-1-btn:hover {
     background-color: #001931;
     color: #FFFFFF;
 }
@@ -458,6 +458,7 @@
     .right {
         left: 0%;
     }
+
     .mb-sm-40 {
         margin-bottom: 40px;
     }
