@@ -352,6 +352,10 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+.accordion-button:focus {
+     box-shadow: unset !important; 
+}
+
 /* section-6 */
 
 .f-bg-img {
